@@ -139,7 +139,7 @@ The fine-tuned model weights are **not included** due to size (~1.2GB).
 python src/train_emotion_model.py
 ```
 
-- **Option 2 — Download pretrained weights:** [Google Drive Link] ← add your link here
+- **Option 2 — Download pretrained weights:** [[Google Drive Link](https://drive.google.com/drive/folders/1rM-VqIfNnqfWlwPLKyB8HOB9odUrn8gt?usp=sharing)]
 
 ---
 
